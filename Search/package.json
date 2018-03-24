@@ -1,0 +1,19 @@
+{
+  "name": "search-component",
+  "version": "0.1.0",
+  "description": "Search component that takes search input passes it as a param to a url that is pushed onto props.history.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "reusable",
+    "search",
+    "react",
+    "toolbox"
+  ],
+  "author": "Jenny Vallon",
+  "license": "ISC"
+}
